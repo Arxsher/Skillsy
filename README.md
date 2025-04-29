@@ -2,7 +2,7 @@
 
 <br>
 
-![Skillsy reveal](assets/images.skillsy-reveal.png)
+![Skillsy reveal](https://github.com/Arxsher/Skillsy/blob/main/assets/images/skillsy-reveal.png)
 
 <br>
 
