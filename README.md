@@ -1,5 +1,11 @@
 # Skillsy - Developer Community Platform
 
+<br>
+
+![Skillsy reveal](assets/images.skillsy-reveal.png)
+
+<br>
+
 Skillsy is a web-based platform designed to connect developers, foster collaboration, and build a vibrant tech community. Built with PHP, MySQL, and modern frontend tools, it provides a secure space for users to sign up, log in, and interact with others.
 
 **Official APK available!** You can also access Skillsy as a secure Android app. The website and APK are hosted with an SSL certificate at [https://skillsy.wuaze.com](https://skillsy.wuaze.com).
